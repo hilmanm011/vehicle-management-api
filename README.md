@@ -13,7 +13,7 @@ Simple API to manage vehicle data using Node.js, Express, and MySQL.
 1. **Clone repositori:**
 
     ```sh
-    git clone <URL_REPOSITORY_ANDA>
+    git clone https://github.com/hilmanm011/vehicle-management-api.git
     cd vehicle-management
     ```
 
